@@ -6,7 +6,7 @@ use CodeIgniter\Controller;
 
 class Auth extends Controller
 {
-    public function index()
+    public function login()
     {
         return view('auth/login');
     }
