@@ -1,0 +1,22 @@
+.control-label{
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.form-group{
+    padding-top: 15px;
+}
+
+.form-control{
+    border: solid 0.5px black;
+}
+.btn-dark {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd
+}
+.btn-dark:hover {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd
+}
